@@ -71,6 +71,8 @@ aplicación en el sistema ROT13.
 
 Prototipo inicial en lapiz y papel:
 
+[](prototipo_papel.jpg)
+
 
 
 ## 6. Feedback
