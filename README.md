@@ -71,7 +71,7 @@ aplicación en el sistema ROT13.
 
 Prototipo inicial en lapiz y papel:
 
-![](prototipo_papel.jpg)
+![](https://raw.githubusercontent.com/claudiaret/LIM011-cipher/master/prototipo_papel.jpg)
 
 ## 6. Feedback
 
