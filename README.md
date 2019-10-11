@@ -71,7 +71,7 @@ aplicación en el sistema ROT13.
 
 Prototipo inicial en lapiz y papel:
 
-[holi](prototipo_papel.jpg)
+![prototipo](prototipo_papel.jpg)
 
 
 
