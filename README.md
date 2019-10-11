@@ -83,8 +83,8 @@ Prototipo inicial en lapiz y papel:
 
 Imagen del prototipo final:
 
-![](prototipo_1.jpg)
+![](https://raw.githubusercontent.com/claudiaret/LIM011-cipher/master/prototipo_1.jpg)
 
-![](prototipo_2.jpg)
+![](https://raw.githubusercontent.com/claudiaret/LIM011-cipher/master/prototipo_2.jpg)
 
-![](prototipo_3.jpg)
+![](https://raw.githubusercontent.com/claudiaret/LIM011-cipher/master/prototipo_3.jpg)
