@@ -4,10 +4,10 @@ de las principales empresas de telecomunicaciones.
 
 ## Índice
 
-* [1. Problemática](#1-problematica)
+* [1. Problemática](#1-problemática)
 * [2. Usuarios](#2-usuarios)
-* [3. Solución](#3-solucion)
-* [4. Cifrado César](#4-cifrado-cesar)
+* [3. Solución](#3-solución)
+* [4. Cifrado César](#4-cifrado-césar)
 * [5. Primer prototipo](#5-primer-prototipo)
 * [6. Feedback](#6-feedback)
 * [7. Prototipo final](#7-prototipo-final)
