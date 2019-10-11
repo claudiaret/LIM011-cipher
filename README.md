@@ -71,9 +71,7 @@ aplicación en el sistema ROT13.
 
 Prototipo inicial en lapiz y papel:
 
-![prototipo](prototipo_papel.jpg)
-
-
+![](prototipo_papel.jpg)
 
 ## 6. Feedback
 
@@ -84,3 +82,9 @@ Prototipo inicial en lapiz y papel:
 ## 7. Prototipo final
 
 Imagen del prototipo final:
+
+![](prototipo_1.jpg)
+
+![](prototipo_2.jpg)
+
+![](prototipo_3.jpg)
