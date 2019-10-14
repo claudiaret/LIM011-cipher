@@ -96,28 +96,28 @@ A continuación te presentamos los objetivos de aprendizaje de este proyecto. Re
 ​
 ### UX
 ​
-- [ s] Diseñar la aplicación pensando y entendiendo al usuario.
-- [ s] Crear prototipos para obtener feedback e iterar.
-- [ s] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+- [ ] Diseñar la aplicación pensando y entendiendo al usuario.
+- [ ] Crear prototipos para obtener feedback e iterar.
+- [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
 ​
 ### HTML y CSS
 ​
-- [ s] Uso correcto de HTML semántico.
-- [ s] Uso de selectores de CSS.
-- [ s] Construir tu aplicación respetando el diseño realizado (maquetación).
+- [ ] Uso correcto de HTML semántico.
+- [ ] Uso de selectores de CSS.
+- [ ] Construir tu aplicación respetando el diseño realizado (maquetación).
 ​
 ### DOM
 ​
-- [s ] Uso de selectores del DOM.
-- [ s] Manejo de eventos del DOM.
-- [ s] Manipulación dinámica del DOM.
+- [ ] Uso de selectores del DOM.
+- [ ] Manejo de eventos del DOM.
+- [ ] Manipulación dinámica del DOM.
 ​
 ### Javascript
 ​
 - [ ] Manipulación de strings.
 - [ ] Uso de condicionales (if-else | switch).
 - [ ] Uso de bucles (for | do-while).
-- [ difheoqfñqñoeFQÑ9] Uso de funciones (parámetros | argumentos | valor de retorno).
+- [ ] Uso de funciones (parámetros | argumentos | valor de retorno).
 - [ ] Declaración correcta de variables (const & let).
 ​
 ### Testing
