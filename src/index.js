@@ -37,3 +37,8 @@ const offd = document.getElementById("offset-descifrado").value;
 const ingresaUserC = document.getElementById("ingresa-usuariocifrado").value;
 resultadoDescifrado.innerHTML = cipher.decode(parseInt(offd),ingresaUserC);
 })
+
+const input = document.querySelector('#b-pg1');
+const textarea = document.querySelector('#usuario-real')
+
+input.addEventListener("click", function(){textarea.value="";},false);

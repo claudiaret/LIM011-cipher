@@ -11,6 +11,7 @@ de las principales empresas de telecomunicaciones.
 * [5. Primer prototipo](#5-primer-prototipo)
 * [6. Feedback](#6-feedback)
 * [7. Prototipo final](#7-prototipo-final)
+* [8. Objetivos de aprendizaje](#8-objetivos-de-aprendizaje)
 
 ***
 
@@ -88,3 +89,45 @@ Imagen del prototipo final:
 ![](https://raw.githubusercontent.com/claudiaret/LIM011-cipher/master/prototipo_2.jpg)
 
 ![](https://raw.githubusercontent.com/claudiaret/LIM011-cipher/master/prototipo_3.jpg)
+
+## 8. Objetivos de aprendizaje Cipher
+​
+A continuación te presentamos los objetivos de aprendizaje de este proyecto. Reflexiona y luego marca los objetivos que has llegado a **entender** y **aplicar** en tu proyecto.
+​
+### UX
+​
+- [ s] Diseñar la aplicación pensando y entendiendo al usuario.
+- [ s] Crear prototipos para obtener feedback e iterar.
+- [ s] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+​
+### HTML y CSS
+​
+- [ s] Uso correcto de HTML semántico.
+- [ s] Uso de selectores de CSS.
+- [ s] Construir tu aplicación respetando el diseño realizado (maquetación).
+​
+### DOM
+​
+- [s ] Uso de selectores del DOM.
+- [ s] Manejo de eventos del DOM.
+- [ s] Manipulación dinámica del DOM.
+​
+### Javascript
+​
+- [ ] Manipulación de strings.
+- [ ] Uso de condicionales (if-else | switch).
+- [ ] Uso de bucles (for | do-while).
+- [ difheoqfñqñoeFQÑ9] Uso de funciones (parámetros | argumentos | valor de retorno).
+- [ ] Declaración correcta de variables (const & let).
+​
+### Testing
+- [ ] Testeo de tus funciones.
+​
+### Git y GitHub
+- [ ] Comandos de git (add | commit | pull | status | push).
+- [ ] Manejo de repositorios de GitHub (clone | fork | gh-pages).
+​
+### Buenas prácticas de desarrollo
+- [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
+- [ ] Uso de linter para seguir buenas prácticas (ESLINT).
+Collapse

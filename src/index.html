@@ -10,31 +10,27 @@
       <h2><img src="NAME.png"></h2>
       <p class="descripcion">Cifra o descifra usuarios para teleoperadores.</p>
 
-<div class="centrar"id="page1">
+<div class="centrar" id="page1">
     <form>
     <p>¿Qué gestión vas a realizar hoy?</p>
-<button type="button" class="botonincio" id="pagecifrar"/>CIFRAR</button>
-<button type="button" class="botonincio" id="pagedescifrar"/>DESCIFRAR</button>
+<button type="button" class="botonincio" id="pagecifrar">CIFRAR</button>
+<button type="button" class="botonincio" id="pagedescifrar">DESCIFRAR</button>
     </form>
     </div>
 
-<div class="centrar"id="page2" >
+<div class="centrar" id="page2" >
 <form>
   <br>
-  <label for="offset-cifrado" class="todas-las-etiquetas">NUEVO USUARIO CREADO:</label> </p>
-  <input class="text" name="ingresa-usuarionuevo"id="ingresa-usuarionuevo"placeholder=" Ingresa NUEVO USUARIO" required>
-  <p>
-  <label for="offset-cifrado" class="todas-las-etiquetas">ROT:</label> </p>
+  <p><label for="offset-cifrado" class="todas-las-etiquetas">NUEVO USUARIO CREADO:</label> </p>
+  <input class="text" name="ingresa-usuarionuevo" id="ingresa-usuarionuevo" placeholder=" Ingresa NUEVO USUARIO" required>
+  <p><label for="offset-cifrado" class="todas-las-etiquetas">ROT:</label></p>
   <input type="number" id="offset-cifrado" name="offset-cifrado" placeholder=" Número" required>
-  <p>
-  <button type="button" id="EJECUTA-CIFRADO" class="BTN-EJECUTA">CIFRA</button>
-  <p>
-  <label for="usuario-cifrado" class="todas-las-etiquetas">USUARIO CIFRADO:</label>
-  </p>
+  <p><button type="button" id="EJECUTA-CIFRADO" class="BTN-EJECUTA">CIFRA</button></p>
+  <p><label for="usuario-cifrado" class="todas-las-etiquetas">USUARIO CIFRADO:</label></p>
   <textarea id="usuario-cifrado" class="text-tarea" name="usuario-cifrado" cols="30"> </textarea>
   <br>
   <br>
-  <button type="reset" class="boton-regresar"id="backto-page1">REGRESAR</button>
+  <button type="reset" class="boton-regresar" id="backto-page1">REGRESAR</button>
   <br>
   <br>
   </form>
@@ -51,12 +47,13 @@
   <input type="text" name="ingresa-usuariocifrado" id="ingresa-usuariocifrado" placeholder=" Ingresa USUARIO CIFRADO" required>
   <br>
   <br>
-  <button type="button" id="EJECUTA-DESCIFRADO" type="button" class="BTN-EJECUTA">DESCIFRA</button>
+  <button id="EJECUTA-DESCIFRADO" type="button" class="BTN-EJECUTA">DESCIFRA</button>
   <p> <label for="usuario-real" class="todas-las-etiquetas">USUARIO REAL:</label> </p>
   <textarea name="usuario-real" class="text-tarea" id="usuario-real" rows="0.2" cols="40"></textarea>
   <br>
   <br>
-  <button type="reset" class="boton-regresar"id="b-pg1">REGRESAR</button>
+  <button type="reset" class="boton-regresar" id="b-pg1">REGRESAR</button>
+  <button type="button" id= "clear" value="clear">LIMPIAR</button>
   <br>
   <br>
   </form>
