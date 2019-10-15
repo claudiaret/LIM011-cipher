@@ -11,7 +11,7 @@ de las principales empresas de telecomunicaciones.
 * [5. Primer prototipo](#5-primer-prototipo)
 * [6. Feedback](#6-feedback)
 * [7. Prototipo final](#7-prototipo-final)
-* [8. Objetivos de aprendizaje](#8-objetivos-de-aprendizaje)
+* [8. Objetivos de aprendizaje](#8-objetivos-de-aprendizaje-cipher)
 
 ***
 
@@ -96,20 +96,20 @@ A continuación te presentamos los objetivos de aprendizaje de este proyecto. Re
 ​
 ### UX
 ​
-- [ ] Diseñar la aplicación pensando y entendiendo al usuario.
-- [ ] Crear prototipos para obtener feedback e iterar.
-- [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+- [SI] Diseñar la aplicación pensando y entendiendo al usuario.
+- [SI] Crear prototipos para obtener feedback e iterar.
+- [SI] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
 ​
 ### HTML y CSS
 ​
-- [ ] Uso correcto de HTML semántico.
-- [ ] Uso de selectores de CSS.
-- [ ] Construir tu aplicación respetando el diseño realizado (maquetación).
+- [SI] Uso correcto de HTML semántico.
+- [SI] Uso de selectores de CSS.
+- [SI] Construir tu aplicación respetando el diseño realizado (maquetación).
 ​
 ### DOM
 ​
 - [ ] Uso de selectores del DOM.
-- [ ] Manejo de eventos del DOM.
+- [SI] Manejo de eventos del DOM.
 - [ ] Manipulación dinámica del DOM.
 ​
 ### Javascript
@@ -124,10 +124,10 @@ A continuación te presentamos los objetivos de aprendizaje de este proyecto. Re
 - [ ] Testeo de tus funciones.
 ​
 ### Git y GitHub
-- [ ] Comandos de git (add | commit | pull | status | push).
-- [ ] Manejo de repositorios de GitHub (clone | fork | gh-pages).
+- [SI] Comandos de git (add | commit | pull | status | push).
+- [SI] Manejo de repositorios de GitHub (clone | fork | gh-pages).
 ​
 ### Buenas prácticas de desarrollo
-- [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
+- [SI] Uso de identificadores descriptivos (Nomenclatura | Semántica).
 - [ ] Uso de linter para seguir buenas prácticas (ESLINT).
 Collapse
