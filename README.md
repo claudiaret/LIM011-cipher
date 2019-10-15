@@ -128,6 +128,6 @@ A continuación te presentamos los objetivos de aprendizaje de este proyecto. Re
 - [SI] Manejo de repositorios de GitHub (clone | fork | gh-pages).
 ​
 ### Buenas prácticas de desarrollo
-- [SI] Uso de identificadores descriptivos (Nomenclatura | Semántica).
+- [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
 - [ ] Uso de linter para seguir buenas prácticas (ESLINT).
 Collapse
