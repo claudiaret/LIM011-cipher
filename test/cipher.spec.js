@@ -52,6 +52,10 @@ describe('cipher', () => {
     expect(cipher.decode(33, 'hijklmnopqrstuvwxyzabcdefg')).toBe('abcdefghijklmnopqrstuvwxyz');
     });
 
+    it('debería retornar "0" para "0" with offset 33', () => {
+    expect(cipher.decode(33, '0')).toBe('0');
+    });
+
     // Hacker edition
     //
     // [Español]

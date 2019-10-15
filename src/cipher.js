@@ -7,7 +7,7 @@ window.cipher = {
         asciiC = cifrar.charCodeAt(i);
         if ( asciiC >= 65 && asciiC <= 90)
         { unew = (( asciiC - 65 + off1 ) % 26) + 65;}
-        if ( asciiC >= 97 && asciiC <= 122)
+        else if ( asciiC >= 97 && asciiC <= 122)
         { unew= (( asciiC - 97 + off1) %26) + 97;}
 
         newCifra += String.fromCharCode(unew);
@@ -21,10 +21,12 @@ window.cipher = {
       for ( let i=0; i<descifrar.length; i++ ) {
         asciiD = descifrar.charCodeAt(i);
         if ( asciiD >= 65 && asciiD <= 90) {
-           ucifra = (( asciiD - 90 - off2 ) % 26) + 90;}
-        if ( asciiD >= 97 && asciiD <= 122) {
-              ucifra = (( asciiD - 122 - off2 ) % 26) + 122;}
-       newDescifra += String.fromCharCode(ucifra);
+          ucifra = (( asciiD - 90 - off2 ) % 26) + 90;}
+        else if ( asciiD >= 97 && asciiD <= 122)
+        { ucifra = (( asciiD - 122 - off2 ) % 26) + 122;}
+
+        newDescifra += String.fromCharCode(ucifra);
       }
-      return newDescifra;},
+      return newDescifra;
+    },
     };

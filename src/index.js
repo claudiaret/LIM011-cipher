@@ -3,7 +3,7 @@
 //btn.addEventListener('click', () => { alert(`Hola! Mucho gusto en conocerte`);});
 //? ? ()=> { } ??
 const cifrarUser= document.getElementById("pagecifrar");
-cifrarUser.addEventListener("click",function cifrarUser() {document.getElementById("page1").style.display="none"
+cifrarUser.addEventListener("click",() => {document.getElementById("page1").style.display="none"
 document.getElementById("page2").style.display="block";})
 
 const descifraUser= document.getElementById("pagedescifrar");
